@@ -1,7 +1,7 @@
 Para rodar o programa siga estes passos:
 
-1.Baixe o docker pelo site [docker](https://www.docker.com/)
-2.Abra o aplicativo do docker
+1. Baixe o docker pelo site [docker](https://www.docker.com/)
+2. Abra o aplicativo do docker
 3. Copie este repositório
 4. Entre na pasta "ecormecce"
 5. Para gerar uma imagem de cada pasta, entre nas pastas e siga estes passos
@@ -41,4 +41,4 @@ exemplo:
 
 Feito isso para cada imagem
 vá o link
-[Local host]()
+[Local host](http://localhost:5000/comprar/Proteina/user1)
