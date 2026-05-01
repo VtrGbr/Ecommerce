@@ -35,10 +35,15 @@ docker network create <nome-da-rede>
 docker run -d -p <numero da porta, por exemplo 5001:5001> --network nome-da-rede --name nome-do-conteiner
 nome-da-minha-imagem
 ```
-
 exemplo:
 <img width="753" height="52" alt="image" src="https://github.com/user-attachments/assets/785a1eae-b537-48cb-a035-70a02d26bc74" />
 
 Feito isso para cada imagem
 vá o link
 [Local host](http://localhost:5000/comprar/Proteina/user1)
+
+
+
+Para mais informações veja o material disponibilizado pelo aluno Kelvin Almeira
+
+[Aula_03__Gateway_orquestrador_e_container_com_docker-2.pdf](https://github.com/user-attachments/files/27276517/Aula_03__Gateway_orquestrador_e_container_com_docker-2_compressed_1.pdf)
