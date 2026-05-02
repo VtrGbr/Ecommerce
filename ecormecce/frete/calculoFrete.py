@@ -14,7 +14,7 @@ FRETE = {
         
     },
     "Rio de Janeiro":{
-        "nome": 20,
+        "valor": 20,
         "distancia": 180,
         
     },

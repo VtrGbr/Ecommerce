@@ -8,7 +8,7 @@ USUARIOS = {
     "user2": {"nome": "Vitor Gabriel", "status": "Devendo"}, # Não pagou
     "user3": {"nome": "Matheus Santos", "status": "SemDivida"},
     "user4": {"nome": "Milton Silva", "status": "Devendo"},
-    "user3": {"nome": "Pedro Primogenito", "status": "SemDivida"}
+    "user5": {"nome": "Pedro Primogenito", "status": "SemDivida"}
 }
 
 @app.route('/compra/<id_usuario>')

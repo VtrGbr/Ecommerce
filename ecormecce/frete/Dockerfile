@@ -21,4 +21,4 @@ ENV FLASK_ENV=development
 EXPOSE 5003
 
 # Rodar o aplicativo Flask
-CMD ["flask", "run", "--host=0.0.0.0"]
+CMD ["flask", "run", "--host=0.0.0.0","--port=5003"]
